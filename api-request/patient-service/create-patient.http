@@ -1,0 +1,13 @@
+### GET request to example server
+POST http://localhost:8080/patient
+Content-Type: application/json
+
+{
+  "name": "Thenuja Hansana",
+  "email": "thenuja@gmail.com",
+  "address": "Galle, Sri Lanka",
+  "dateOfBirth": "2006-06-09",
+  "registeredDate": "2006-06-09"
+}
+
+###
